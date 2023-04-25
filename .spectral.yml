@@ -1,2 +1,4 @@
 extends:
-- spectral:oas
+  - spectral:oas
+  - "@stoplight/spectral-owasp-ruleset"
+
